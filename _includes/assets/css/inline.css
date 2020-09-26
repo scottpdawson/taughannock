@@ -275,13 +275,8 @@ article a, .footer a, .search-results a {
     background-repeat: repeat-x;
     padding-bottom: 3px;
 }
-footer a {
-	color: white;
-    text-decoration: none;
-    background-image: linear-gradient(to right,#fff 50%,#fff 50%);
-    background-position: 0 1.25em;
-    background-repeat: repeat-x;
-    padding-bottom: 3px;
+.footer a {
+	font-weight: normal;
 }
 blockquote:not(.tweet-card) {
 	font-family: 'Neuton', serif;
@@ -1072,7 +1067,7 @@ p.title {
 		width: 100vw;
 		top: 167px;
 		overflow-y: scroll;
-		max-height: calc(100vh - 200px);
+		max-height: calc(100vh - 250px);
 		border-top: 3px solid white;
 		border-bottom: 3px solid white;
 	}
