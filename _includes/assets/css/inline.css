@@ -278,9 +278,9 @@ article img:before, article img:after {
 	width: 130px;
     border-radius: 100px;
     display: block;
-    border: 2px solid #ffffffd6;
+    border: 3px solid #ffffffd6;
     position: absolute;
-    top: -20px;
+    top: 10px;
 	left: 16px;
 	z-index: 2;
 }
@@ -828,7 +828,7 @@ p code {
 
 .header .menu {
 	position: relative;
-    top: 86px;
+    top: 116px;
     left: 50px;
     width: 15em;
 	max-height: 0;
@@ -884,7 +884,7 @@ p code {
     padding: 20px 12px;
     position: absolute;
     user-select: none;
-	top: 118px;
+	top: 148px;
     left: 60px;
     background: #ffffffd6;
     border-radius: 100px;
@@ -1088,7 +1088,7 @@ p.title {
 
 	.main {
 		width: 100vw;
-		top: 147px;
+		top: 167px;
 		overflow-y: scroll;
 		max-height: calc(100vh - 200px);
 		border-top: 3px solid white;
@@ -1141,7 +1141,7 @@ p.title {
 	}
 
 	.header .menu-icon {
-		top: 88px;
+		top: 118px;
 		left: 40px;
 	}
 
