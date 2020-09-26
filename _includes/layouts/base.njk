@@ -29,6 +29,9 @@ lang="en">
 			<div class="container">
 				<p class="title">Taughannock Falls State Park</p>
 				<ol class="breadcrumb">
+					{% if (permalink !== "/") %}
+						<li><a href="/">Home</a></li>
+					{% endif %}
 					{% if (season) %}
 						<li><a href="/seasons/">Seasons</a></li>
 						<li><a href="/seasons/{{season}}"><i class="{{ season | seasonIcon }}" style="color: {{ season | seasonColor }}"></i> {{season}} {{ date | momentYear }}</a></li>
