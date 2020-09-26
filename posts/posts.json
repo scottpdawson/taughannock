@@ -1,7 +1,8 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "posts/{{ title | slug }}/index.html",
+  "permalink": "{{date | momentYear | slug}}/{{date | momentSeason | slug}}/{{title | removeNonAlpha | slug}}/",
   "tags": [
     "post"
-  ]
+  ],
+  "author": "Scott Dawson"
 }

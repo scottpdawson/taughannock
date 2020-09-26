@@ -3,26 +3,113 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
+const moment = require("moment");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
 
-  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
-
-  // Merge data instead of overriding
-  // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
+
+  eleventyConfig.addFilter("removeNonAlpha", text => {
+    return text.replace(/[ñ]/g,"n").replace(/[^- 0-9a-z]/gi, '');
+  });  
+
+  eleventyConfig.addFilter("galleryImage", img => {
+    return img + '?nf_resize=smartcrop&w=213&h=213';
+  });
+
+  eleventyConfig.addFilter("heroImage", img => {
+    return img + '?nf_resize=smartcrop&w=723&h=560';
+  });
+  
+  eleventyConfig.addFilter("contentImage", img => {
+    return img + '?nf_resize=fit&w=550';
+  });
+
+  eleventyConfig.addFilter("squash", require("./filters/squash.js") );
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
+  });
+
+  eleventyConfig.addFilter("momentDate", dateObj => {
+    return moment.utc(dateObj).format('MMMM D, YYYY');
+  });
+
+  eleventyConfig.addFilter("momentSeason", dateObj => {
+    let month = moment.utc(dateObj).month();
+    if ([11,0,1].includes(month)) {
+      return "winter";
+    }
+    if ([2,3,4].includes(month)) {
+      return "spring";
+    }
+    if ([5,6,7].includes(month)) {
+      return "summer";
+    }
+    if ([8,9,10].includes(month)) {
+      return "autumn";
+    }
+  });
+
+  eleventyConfig.addFilter("seasonIcon", season => {
+    switch(season) {
+      case "spring":
+        return "fas fa-seedling";
+        break;
+      case "summer":
+        return "fas fa-sun";
+        break;
+      case "autumn":
+        return "fab fa-pagelines";
+        break;
+      case "winter":
+        return "far fa-snowflake";
+        break;
+      default:
+        return "";
+    }
+  });
+
+  eleventyConfig.addFilter("seasonColor", season => {
+    switch(season) {
+      case "spring":
+        return "#50ce50";
+        break;
+      case "summer":
+        return "#ffb200";
+        break;
+      case "autumn":
+        return "#ff6b00";
+        break;
+      case "winter":
+        return "#62bfff";
+        break;
+      default:
+        return "";
+    }
+  });
+
+  eleventyConfig.addFilter("momentYear", dateObj => {
+    return moment.utc(dateObj).format('YYYY');
+  });
+
+  eleventyConfig.addFilter("momentMonthYear", dateObj => {
+    return moment.utc(dateObj).format('MMM D, YYYY');
+  });
+
+  eleventyConfig.addFilter("momentMonthDay", dateObj => {
+    return moment.utc(dateObj).format('MMMM D');
+  });
+
+  eleventyConfig.addFilter("getYearArray", collection => {
+    let yearArray = [];
+    collection.forEach((item) => {
+      yearArray.push(moment.utc(item.date).format('YYYY'));
+    });
+    return [...new Set(yearArray)];
   });
 
   // Date formatting (machine readable)
@@ -43,6 +130,97 @@ module.exports = function(eleventyConfig) {
       return code;
     }
     return minified.code;
+  });
+
+  eleventyConfig.addCollection("allPosts", (collection) =>
+    collection.getFilteredByGlob("posts/*.md")
+  );
+
+  eleventyConfig.addCollection("seasons", (collection) => {
+    return collection.getFilteredByGlob("pages/*.md").filter( item => {
+      const includeInSeasonMenu = item.data.includeInSeasonMenu;
+      return ( includeInSeasonMenu ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("activities", (collection) => {
+    return collection.getFilteredByGlob("pages/*.md").filter( item => {
+      const includeInActivityMenu = item.data.includeInActivityMenu;
+      return ( includeInActivityMenu ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("spring", (collection) => {
+    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+      const season = item.data.season;
+      return ( season && season.toLowerCase() === "spring" ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("summer", (collection) => {
+    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+      const season = item.data.season;
+      return ( season && season.toLowerCase() === "summer" ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("autumn", (collection) => {
+    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+      const season = item.data.season;
+      return ( season && season.toLowerCase() === "autumn" ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("winter", (collection) => {
+    return collection.getFilteredByGlob("posts/*.md").filter( item => {
+      const season = item.data.season;
+      return ( season && season.toLowerCase() === "winter" ? item : false );
+    }); 
+  });
+
+  eleventyConfig.addCollection("tagList", require("./utils/getTagList.js"));
+
+  eleventyConfig.addNunjucksShortcode("lightbox", function(arr) {
+    let imageString = '';
+    for (i = 0; i < arr.length; i++) {
+      imageString = imageString + `<div class="carousel-cell">
+        <img 
+          src="${arr[i].image}?nf_resize=fit&h=800" 
+          title="${arr[i].caption}" 
+          title="${arr[i].caption}" />
+      </div>`;
+    }
+    return(
+      `<div class="main-carousel" data-flickity='{ "fullscreen": true, "wrapAround": "true", "autoPlay": "3000", "pauseAutoPlayOnHover": true }'>${imageString}</div>`
+    );
+  });
+
+  const embedVimeo = require("eleventy-plugin-vimeo-embed");
+  eleventyConfig.addPlugin(embedVimeo);
+
+  const pluginEmbedTweet = require("eleventy-plugin-embed-tweet");
+  let tweetEmbedOptions = {
+      useInlineStyles: true,
+      autoEmbed: true,
+  }
+  eleventyConfig.addPlugin(pluginEmbedTweet, tweetEmbedOptions);
+
+  const embedInstagram = require("eleventy-plugin-embed-instagram");
+  eleventyConfig.addPlugin(embedInstagram);
+
+  const pluginRss = require("@11ty/eleventy-plugin-rss");
+  eleventyConfig.addPlugin(pluginRss);
+
+  const readingTime = require('eleventy-plugin-reading-time');
+  eleventyConfig.addPlugin(readingTime);
+
+  eleventyConfig.addShortcode("picture", require("./utils/picture.js"));
+  eleventyConfig.addShortcode("pictureRt", require("./utils/pictureRt.js"));
+  eleventyConfig.addShortcode("pictureRtSm", require("./utils/pictureRtSm.js"));
+  eleventyConfig.addShortcode("githubGist", require("./utils/githubGist.js"));
+  eleventyConfig.addShortcode("currentYear", function() {
+    const year = new Date().getFullYear();
+    return `${year}`;
   });
 
   // Minify HTML output
@@ -67,15 +245,41 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter('has_tag', function( arr, key, value ) {
+    return arr.filter( item => {
+        const keys = key.split( '.' );
+        const reduce = keys.reduce( ( object, key ) => {
+            return object[ key ];
+        }, item );
+        const str = String( reduce );
+
+        return ( str.includes( value ) ? item : false );
+    });
+  });
+
+  eleventyConfig.addFilter('lacks_tag', function( arr, key, value ) {
+    return arr.filter( item => {
+        const keys = key.split( '.' );
+        const reduce = keys.reduce( ( object, key ) => {
+            return object[ key ];
+        }, item );
+        const str = String( reduce );
+
+        return ( str.includes( value ) ? false : item );
+    });
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("static/");
+  eleventyConfig.addPassthroughCopy("images/");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
+  var markdownItAttrs = require('markdown-it-attrs');
   let options = {
     html: true,
     breaks: true,
@@ -87,18 +291,17 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(markdownItAttrs, {
+      leftDelimiter: '{',
+      rightDelimiter: '}',
+      allowedAttributes: []  // empty array = all attributes are allowed
+    })
   );
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
-
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {

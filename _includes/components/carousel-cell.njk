@@ -1,0 +1,5 @@
+<div class="carousel-cell carousel-with-links {% if (item.data.title.length > 40) %} long-lede{% endif %}" 
+  {% if (item.data.hero) %}style="background-image: url({{ item.data.hero }}?nf_resize=fit&w=365)"{% endif %} onClick="location.href='{{ item.url }}'">
+  {% if (item.data.date) %}<p class="date">{{ item.data.date | momentDate }}</p>{% endif %}
+  <h2><a href="{{ item.url }}">{{ item.data.title | safe }}</a></h2>
+</div>

@@ -4,28 +4,40 @@ section: post
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
-    </small>
-  </p>
 
-  {{ layoutContent | safe }}
+  {{ content | safe }}
 
   {% if tags %}
-    <p>
+    <div class="relatedTags">
+    <i class="fas fa-tag" data-fa-transform="rotate-115"></i> 
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        <a href="{{ tagUrl | url }}" rel="tag">#{{ tag }}</a> 
       {%- endif -%}
     {% endfor %}
-    </p>
+    </div>
+  {% endif %}
+
+  {% if season %}
+    
+    {% set collectionName %}{{ season.toLowerCase() }}{% endset %}
+    {% set collectionSize %}{{ collections[collectionName].length }}{% endset %}
+
+    <div class="relatedPosts">
+      <h3>Other Posts from {{ season }}</h3>
+      <p>There are <a href="/seasons/{{ season.toLowerCase() | url }}/">{{ collectionSize - 1 }} 
+      other posts like this one</a>. Here are some other recent ones:</p>
+      <div class="main-carousel" data-flickity='{ "fullscreen": false, "wrapAround": "true", "autoPlay": 7000, "pauseAutoPlayOnHover": true }'>
+        {% set relatedPostsOutput = 0 %}
+        {%- for item in collections[collectionName] | reverse -%}
+        {% if relatedPostsOutput < 6 and item.url.indexOf( title | removeNonAlpha | slug ) === -1 %}
+        {% include '_includes/components/carousel-cell.njk' %}
+        {% set relatedPostsOutput = relatedPostsOutput + 1 %}
+        {% endif %}
+        {%- endfor -%}
+      </div>
+    </div>
   {% endif %}
 
 </article>
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>

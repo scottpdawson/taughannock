@@ -1,23 +1,72 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
-
+<html 
+	{% if section %} data-current="{{ section }}"{% endif %} 
+	{% if hero %} style="background-image: url({{hero}}?nf_resize=fit&w=1400)"{% endif %}
+lang="en">
 	{% include "components/head.njk" %}
-
 	<body>
-
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
-
-		<main>
-			{{ layoutContent | safe }}
-		</main>
-
+		<div class="sidebar">
+			<header>
+				<div class="solid-header">
+					{% include "components/nav.njk" %}
+					{% include "components/search.njk" %}
+					<div class="page-details">
+						{% if tags %}
+							<p class="tags">
+							{% for tag in tags %}
+								{% if tag !== "post" %}
+									{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+									<a href="{{ tagUrl | url }}" rel="tag">#{{ tag }}</a>
+								{% endif %}
+							{% endfor %}
+							</p>
+						{% endif %}
+					</div>
+				</div>
+			</header>
+		</div>
+		<div id="main" class="main">
+			<div class="container">
+				<p class="title">Taughannock Falls State Park</p>
+				<ol class="breadcrumb">
+					{% if (season) %}
+						<li><a href="/seasons/">Seasons</a></li>
+						<li><a href="/seasons/{{season}}"><i class="{{ season | seasonIcon }}" style="color: {{ season | seasonColor }}"></i> {{season}} {{ date | momentYear }}</a></li>
+					{% endif %}
+					{% if date %}
+						<li>{{ date | momentMonthDay }}</li>
+					{% endif %}
+					{% if (permalink.indexOf("seasons/") !== -1 and permalink !== "seasons/") %}
+						<li><a href="/seasons/">Seasons</a></li>
+					{% endif %}
+					{% if (permalink.indexOf("activities/") !== -1 and permalink !== "activities/") %}
+						<li><a href="/activities/"><i class="fas fa-campground" title="Activities"></i> Activities</a></li>
+					{% endif %}
+				</ol>
+				<h1>
+					{{ title }}
+				</h1>
+				<main>
+					{{ content | safe }}
+				</main>
+			</div>
+		</div>
 		{% include "components/footer.njk" %}
-
+		<div class="lightbox">
+			<div class="title"></div>
+			<div class="filter"></div>
+			<div class="arrowr"></div>
+			<div class="arrowl"></div>
+			<div class="close"></div>
+		</div>
+		<div class="search-ui invisible">
+			<button id="search-close"><i class="fas fa-times" title="Done"></i></button>
+			<input type="search" id="search-str" class="search-str" placeholder="search this site" />
+			<ol class="search-results"></ol>
+		</div>
+		<span id="ecIcon" title="Collapse this text (see more of the picture!)">
+			<i class="fas fa-expand expandIcon"></i>
+			<i class="fas fa-compress compressIcon"></i>
+		</span>
 	</body>
-
 </html>

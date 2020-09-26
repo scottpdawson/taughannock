@@ -1,10 +1,22 @@
-<nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
-  {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
-  {%- endfor %}
+<header class="about header">
+  <a href="/"><img src="/static/img/taughannock.jpg" class="avatar" title="Taughannock Falls" /></a>
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+    <li><a href="/activities"><span class="nav-icon"><i class="fas fa-campground" title="Activities"></i></span> <span class="nav-label">Activities</span></a></li>
+    <li><a href="/history"><span class="nav-icon"><i class="fas fa-history" title="History"></i></span> <span class="nav-label">History</span></a></li>
+    <li><a href="/geology"><span class="nav-icon"><i class="fas fa-water" title="Geology"></i></span> <span class="nav-label">Geology</span></a></li>
+    <li><a href="/nature"><span class="nav-icon"><i class="fas fa-leaf" title="Nature"></i></span> <span class="nav-label">Nature</span></a></li>
+    <li><a href="/search" id="search-link"><span class="nav-icon"><i class="fas fa-search" title="Search this site"></i></span> <span class="nav-label">Search</span></a></li>
+    <li><a href="https://goo.gl/maps/7zcn5BtiaeqJ7y7n7"><span class="nav-icon"><i class="fas fa-map" title="Get Directions"></i></span> <span class="nav-label">Directions</span></a></li>
+    <li><a href="tel:607-387-6739"><span class="nav-icon"><i class="fas fa-phone" title="Call the Park"></i></span> <span class="nav-label">(607) 387-6739</span></a></li>
+    <li><a href="https://www.instagram.com/explore/tags/taughannockfalls/"><span class="nav-icon"><i class="fab fa-instagram" title=""></i></span> <span class="nav-label">Instagram</span></a></li>
+    <li><a href="https://www.facebook.com/search/photos/?q=%23taughannockfalls"><span class="nav-icon"><i class="fab fa-facebook-f" title=""></i></span> <span class="nav-label">Facebook</span></a></li>
+    <li><a href="https://twitter.com/search?q=%23taughannockfalls&src=typd"><span class="nav-icon"><i class="fab fa-twitter" title=""></i></span> <span class="nav-label">Twitter</span></a></li>
   </ul>
-</nav>
+</header>
+<ul class="seasons">
+  {% for season in ["spring", "summer", "autumn", "winter"] %}
+    <li class="{{ season }}"><a href="/seasons/{{ season }}"><i class="{{ season | seasonIcon }}" title="{{ season }}"></i></a></li>
+  {% endfor %}
+</ul>
