@@ -13,4 +13,7 @@ Looking toward the lake from the north rim, you can almost imaging the vibrant c
 
 I enjoyed seeing people fishing just beyond the Route 89 bridge, too. It must be a fantastic time of year for fish to explore upstream from the junction with Cayuga Lake.
 
-\[gallery type="rectangular" ids="377,376"\]
+{% lightbox [
+    { caption: "", image: "/images/IMG_2369.jpg" },
+    { caption: "", image: "/images/IMG_2370.jpg" }
+]%}

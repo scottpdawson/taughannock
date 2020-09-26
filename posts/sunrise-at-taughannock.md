@@ -12,4 +12,11 @@ A beautiful morning for a hike: a great way to kick off a Monday. Taughannock wa
 
 https://vimeo.com/263873419
 
-\[gallery type="rectangular" ids="194,196,197,195,199,198"\]
+{% lightbox [
+    { caption: "Caption", image: "/images/img_0676.jpg" },
+    { caption: "Caption", image: "/images/img_0673.jpg" },
+    { caption: "Caption", image: "/images/img_0677.jpg" },
+    { caption: "Caption", image: "/images/img_0682.jpg" },
+    { caption: "Caption", image: "/images/img_0678.jpg" },
+    { caption: "Caption", image: "/images/img_0672.jpg" }
+]%}
