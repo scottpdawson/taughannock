@@ -1052,7 +1052,7 @@ p.title {
 
 .breadcrumb li a { color: hsl(0, 0%, 40%); } 
 
-@media (max-width: 640px) {
+@media (max-width: 900px) {
 
 	.rt {
 		width: 50vw;
