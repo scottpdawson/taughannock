@@ -1145,3 +1145,12 @@ and (max-device-width : 2000px) {
 		background-attachment: initial;
 	}
 }
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+	html {
+		background-attachment: initial;
+	}
+}
