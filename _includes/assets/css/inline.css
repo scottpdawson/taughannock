@@ -359,7 +359,7 @@ article li p {
     top: 0;
     background: #ffffffdd;
     backdrop-filter: blur(10px);
-	z-index: 1;
+	z-index: 200;
 	padding: 3em;
 }
 
