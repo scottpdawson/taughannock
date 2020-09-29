@@ -277,6 +277,11 @@ article a, .footer a, .search-results a {
     background-repeat: repeat-x;
     padding-bottom: 3px;
 }
+.footer {
+	border-top: 1px solid #969696;
+    padding-top: 5px;
+    margin: 0;
+}
 .footer a {
 	font-weight: normal;
 }
