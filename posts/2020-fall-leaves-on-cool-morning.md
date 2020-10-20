@@ -22,6 +22,6 @@ You can see this fabulous view from the South rim trail. The waterfall is just a
 
 {% picture "/images/2020-10-19/IMG_6762.jpg", "Taughannock's base trail, after the bend, leading toward the falls" %}
 
-{% pictureRt "/images/2020-10-19/IMG_6763.jpg", "DEC sign and boot-scraping station" %}
+{% pictureRt "/images/2020-10-19/IMG_6763r.jpg", "DEC sign and boot-scraping station" %}
 
 There are also some new DEC signs in the park. I spotted this one at the Jacksonville Road parking lot, and there's another at the overlook. In short, non-native animals, seeds, and plant parts can be carried from place to place by humans. Our shoes are no exception. The shoe brushes are a fun way to keep your shoes free of seeds and other detritus as you enter and leave the park. Learn more at [PlayCleanGo.org](https://www.playcleango.org/).
