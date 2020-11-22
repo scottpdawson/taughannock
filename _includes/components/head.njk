@@ -1,11 +1,8 @@
 <head>
   <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, user-scalable=no" />
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <link href="/_includes/assets/fa/css/all.css" rel="stylesheet">
+  <link href="/_includes/assets/fa/css/all.min.css" rel="stylesheet" media="print" onload="this.media='screen'">
   <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
-  <link href="//fonts.googleapis.com/css2?family=Neuton&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
   <title>{%- if title !== 'Welcome' -%}{{ title }} | Taughannock Falls State Park{%- else -%}Taughannock Falls State Park{%- endif -%}</title>
   {% set meta_description %}
     {%- if description -%}{{ description }}{%- else -%}Taughannock Falls State Park hosts the tallest single-drop waterfall east of the Rocky Mountains. These spectacular falls are in New York State's Finger Lakes region near Ithaca and Trumansburg.{%- endif -%}
