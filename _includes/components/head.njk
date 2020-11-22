@@ -2,11 +2,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no" />
   <link href="/_includes/assets/fa/css/all.min.css" rel="stylesheet" media="print" onload="this.media='screen'">
-  <link rel="preconnect" href="//fonts.googleapis.com/" crossorigin>
-  <title>{%- if title !== 'Welcome' -%}{{ title }} | Taughannock Falls State Park{%- else -%}Taughannock Falls State Park{%- endif -%}</title>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>  <title>{%- if title !== 'Welcome' -%}{{ title }} | Taughannock Falls State Park{%- else -%}Taughannock Falls State Park{%- endif -%}</title>
   {% set meta_description %}
     {%- if description -%}{{ description }}{%- else -%}Taughannock Falls State Park hosts the tallest single-drop waterfall east of the Rocky Mountains. These spectacular falls are in New York State's Finger Lakes region near Ithaca and Trumansburg.{%- endif -%}
   {% endset %}
+  <link href="https://fonts.googleapis.com/css?family=Neuton|Special+Elite|EB+Garamond:400,700,400i,700i|Oswald:400,700&amp;display=swap" rel="stylesheet">
   <meta name="description" content="{{ meta_description }}"/>
   <link rel="alternate" href="/feed.xml" title="Taughannock Falls State Park" type="application/atom+xml">
   <meta name="twitter:card" content="summary_large_image">
