@@ -8,22 +8,26 @@ includeInActivityMenu: true
 
 Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5.00/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes!
 
+## 2021 Summer Concert Series
+
+Sadly, the 2021 Summer Concert Series has been canceled due to coronavirus concerns. If you're looking for your Finger Lakes music fix, there's another non-park option this year: [GrassRoots](https://www.grassrootsfest.org/) is planning a series of one night, limited capacity, socially-distanced COVID-safe concerts on Fridays and Saturdays between July 9 and July 31.
+
+## Prior Lineups
+
 ## 2020 Summer Concert Series
 
-Sadly, the 2020 Summer Concert Series has been canceled due to coronavirus concerns.
+The 2020 Summer Concert Series was canceled due to coronavirus concerns.
 
 ## 2019 Summer Concert Series
 
-- [Purple Valley](https://purplevalley.weebly.com/) (July 6) _Blues, swing and rock 'n roll_
-- [The Sim Redmond Band](http://www.simredmondband.com/) (July 13) _Roots Rock: Melodic sounds and choral rifts of a band that is touring the world, and started right here in Trumansburg_
+- [Purple Valley](https://purplevalley.weebly.com/) (July 6)
+- [The Sim Redmond Band](http://www.simredmondband.com/) (July 13) 
 - [Johnny Russo and the East Hill Classic Jazz Band](http://www.watershed-arts.com/russo.html) (July 20)
-- [The Tarps](https://facebook.com/TarpsRock) (July 27) _Classic rock, playing dance music from the 50s to the 80s_
-- [Laila Belle](https://lailabelle.com/) (August 3) _Original sweet classic country featuring Amy and Ward Puryear and Chris Ploss_
-- [Maddy Walsh & the Blind Spots](https://www.theblindspots.com) (August 10) _Moxy rock with infectious rhythms_
-- [Lil' Anne and Hot Cayenne](http://www.lilanneandhotcayenne.com/) (August 17) _Musically tight, classic Zydeco groove, with a hot and spicy touch of their own_
+- [The Tarps](https://facebook.com/TarpsRock) (July 27) 
+- [Laila Belle](https://lailabelle.com/) (August 3) 
+- [Maddy Walsh & the Blind Spots](https://www.theblindspots.com) (August 10) 
+- [Lil' Anne and Hot Cayenne](http://www.lilanneandhotcayenne.com/) (August 17) 
 - 9th Annual Movie Under the Stars (August 24)
-
-## Prior Lineups
 
 ### 2018
 
