@@ -37,9 +37,15 @@ J.S. Halsey built the **Cataract Hotel** at the overlook in 1850. Sixteen years
 **John M. Thompson** purchased the hotel in 1872. During this time, several efforts to market the area are noteworthy:
 
 - **Professor Jenkins**, a Canadian stuntman, crossed the gorge on a tightrope
-- The Taughannock Man (**Tauggy**) was discovered in 1879 during hotel renovations and put on display before it was revealed as a hoax. Ira Dean had teamed up with Thompson to create this [stone giant](http://tompkinsweekly.com/news/2017/12/26/look-back-home-grown-hoax-taughannock-giant/) using stone dust, eggs, minerals, iron fillings and beef blood. After its "discovery" Cornell scientists deemed the corpse authentic, lending credibility to the story and the draw for tourism to see the artifact.
+- The Taughannock Man (**Tauggy**) was discovered in 1879 during hotel renovations and put on display (see below)
 
 **George Freer** purchased the hotel in the 1890s, though business started to decline in 1905. Freer left the hotel ten years later and the hotel languished. Investors took over in 1922 with the goal of reinvigorating the property, but a chimney fire changed their plans, burning the hotel to the ground. Two years later, the overlook was purchased by the [Finger Lakes State Park Commission](https://en.wikipedia.org/wiki/New_York_State_Office_of_Parks,_Recreation_and_Historic_Preservation).
+
+## Trumansburg's Taughannock Giant
+
+The Taughannock Man (**Tauggy**) was discovered in 1879 during hotel renovations and put on display before it was revealed as a hoax. Ira Dean teamed up with John Thompson to create this [stone giant](https://www.tompkinsweekly.com/articles/a-look-back-at-home-grown-hoax-the-taughannock-giant/) using stone dust, eggs, minerals, iron fillings and beef blood. After its "discovery" Cornell scientists deemed the corpse authentic, lending credibility to the story and the draw for tourism to see the artifact.
+
+In 2019, artist Annemarie Zwack, along with Durand Van Doren and Teo Aceto, created a replica of the Taughannock Giant. At July 3, 2021 at 11 a.m., the replica giant was placed in a small pavilion across from Trumansburg's Farmer's Market ([map](https://goo.gl/maps/BGpK1a4Q2apnGRq58)) on a slab of native stone ([press release](/static/img/taughannock-giant-press-release.png)).
 
 ## The Black Diamond
 
