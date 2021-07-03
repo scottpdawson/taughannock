@@ -47,6 +47,8 @@ The Taughannock Man (**Tauggy**) was discovered in 1879 during hotel renovations
 
 In 2019, artist Annemarie Zwack, along with Durand Van Doren and Teo Aceto, created a replica of the Taughannock Giant. At July 3, 2021 at 11 a.m., the replica giant was placed in a small pavilion across from Trumansburg's Farmer's Market ([map](https://goo.gl/maps/BGpK1a4Q2apnGRq58)) on a slab of native stone ([press release](/static/img/taughannock-giant-press-release.png)).
 
+{% picture "/images/tauggy.jpg", "The Taughannock Giant, 1879" %}
+
 ## The Black Diamond
 
 The Black Diamond Express started service on May 18, 1896. It was a fitting name for a train on a route conceived of to haul coal, but became popular by hosting luxury coaches to connect the area with Buffalo, Ithaca, Geneva and New York City.
