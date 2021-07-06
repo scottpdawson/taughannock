@@ -10,7 +10,13 @@ Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starti
 
 ## 2021 Summer Concert Series
 
-Sadly, the 2021 Summer Concert Series has been canceled due to coronavirus concerns. If you're looking for your Finger Lakes music fix, there are a few non-park options this year: [GrassRoots](https://www.grassrootsfest.org/) is planning a series of one night, limited capacity, socially-distanced COVID-safe concerts on Fridays and Saturdays between July 9 and July 31. Downtown Ithaca hosts the [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) at the Bernie Milton Pavilion on the [Ithaca Commons](https://www.google.com/maps/place/Ithaca+Commons/@42.4395184,-76.4990657,17z/data=!3m1!4b1!4m5!3m4!1s0x89d0819c8632d9e5:0x7e9b07ab2aa65eb6!8m2!3d42.4395184!4d-76.4968717) at 6 p.m. every Thursday from July 8 to September 9.
+Sadly, the 2021 Summer Concert Series has been canceled due to coronavirus concerns. If you're looking for your Finger Lakes music fix, there are a few non-park options this year: 
+
+[GrassRoots](https://www.grassrootsfest.org/) is planning a series of one night, limited capacity, socially-distanced COVID-safe concerts on Fridays and Saturdays between July 9 and July 31. 
+
+Downtown Ithaca hosts the [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) at the Bernie Milton Pavilion on the [Ithaca Commons](https://www.google.com/maps/place/Ithaca+Commons/@42.4395184,-76.4990657,17z/data=!3m1!4b1!4m5!3m4!1s0x89d0819c8632d9e5:0x7e9b07ab2aa65eb6!8m2!3d42.4395184!4d-76.4968717) at 6 p.m. every Thursday from July 8 to September 9.
+
+If you're up for a scenic drive from Ithaca to Skaneateles (~1 hour), the [Skaneateles Festival](http://www.skanfest.org/) is another summer music option. It features world-class jazz and classical musicians August 3-28.
 
 ## Prior Lineups
 
