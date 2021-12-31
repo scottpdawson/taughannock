@@ -74,4 +74,4 @@ Since the last glacier departed for points north, Taughannock Falls has eroded i
 
 {% picture "/images/taughannock_ithaca_shale_sherburne_sandstone_geneseo_shale.png", "Shale erosion leaves the sturdier Sherburne sandstone above unsupported and vulnerable to breaking and falling" %}
 
-Geneseo shale erodes easily and helps maintain Taughannock's overhang. Shale erosion leaves the sturdier Sherburne sandstone above unsupported and vulnerable to breaking and falling. There are tons of large, rectangular sandstone blocks at the base of the cliff. They used to occupy a loftier perch, and eventually will be carried downstream.
+Geneseo shale erodes easily and helps maintain Taughannock's overhang. Shale erosion leaves the sturdier Sherburne sandstone above unsupported and vulnerable to breaking and falling. There are tons of large, rectangular sandstone blocks at the base of the cliff. They used to occupy a loftier perch, and eventually will be carried downstream. I documented [an excellent example of this type of erosion](/2021/winter/rockfall-at-taughannock-park/) on December 31, 2021.
