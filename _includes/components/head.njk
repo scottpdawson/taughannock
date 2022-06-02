@@ -28,7 +28,7 @@
   <meta name="twitter:site" content="@scottpdawson" />
   <meta name="twitter:creator" content="@scottpdawson" />
   <meta name="twitter:description" content="{{ meta_description }}"/>
-  <meta property="og:url" content="https://taughannock.us/{%- if permalink !== '/' -%}{{date | momentYear | slug}}/{{date | momentSeason | slug}}/{{title | removeNonAlpha | slug}}/{%- endif -%}" />
+  <meta property="og:url" content="https://taughannock.us/{%- if permalink !== '/' and date -%}{{date | momentYear | slug}}/{{date | momentSeason | slug}}/{{title | removeNonAlpha | slug}}/{%- else -%}{{permalink}}{%- endif -%}" />
   <meta property="og:title" content="{%- if title !== 'Welcome' -%}{{ title }}{%- else -%}Taughannock Falls State Park{%- endif -%}" />
   <meta property="og:description" content="{{ meta_description }}"/>
   {% set og_hero %}
