@@ -2,37 +2,45 @@
 title: "Taughannock Falls State Park Summer Concert Series"
 permalink: "activities/taughannock-falls-state-park-summer-concert-series/"
 hero: "/images/IMG_8577.jpg"
-description: "Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5.00/vehicle. Empire passes are honored at the gate. "
+description: "Updated for 2022, concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5.00/vehicle. Empire passes are honored at the gate. "
 includeInActivityMenu: true
 ---
 
-Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5.00/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes!
+Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes!
 
-## 2021 Summer Concert Series
+## 2022 Summer Concert Series
 
-Sadly, the 2021 Summer Concert Series has been canceled due to coronavirus concerns. If you're looking for your Finger Lakes music fix, there are a few non-park options this year: 
+- [Diana Leigh & the Shorty Georges](https://dianaleigh.com/ensembles/) (July 2)<br />_Swing dance band with exciting arrangements of jazz standards_
+- [Iron Horse](https://www.facebook.com/ironhorseithacany) (July 9)<br />_Authentic southern rock and texas blues_
+- [Party of Four](https://wgottlieb.wixsite.com/party-of-four) (July 16)<br />_Four part jazz harmony_
+- [Papa Muse](https://papamuse.com/) (July 23) <br />_Rock and world music with catchy hooks and funky danceable grooves_
+- [Gunpoets](https://www.gunpoets.com/) (July 30) <br />_Seven-member live hip-hop band spreading the universal message of peace, love, and justice through music_
+- [Zydeco Trail Riders](http://zydecotrailriders.com/) (August 6) <br />_Zydeco-playing dance band_
+- [Marc Berger and Ride](https://marcbergermusic.com/) (August 13) <br />_Songs reflecting Marc’s romantic connection to the American West and exploring the value of its myths to contemporary culture_
 
-[GrassRoots](https://www.grassrootsfest.org/) is planning a series of one night, limited capacity, socially-distanced COVID-safe concerts on Fridays and Saturdays between July 9 and July 31. 
+### Other Area Concert Series
 
-Downtown Ithaca hosts the [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) at the Bernie Milton Pavilion on the [Ithaca Commons](https://www.google.com/maps/place/Ithaca+Commons/@42.4395184,-76.4990657,17z/data=!3m1!4b1!4m5!3m4!1s0x89d0819c8632d9e5:0x7e9b07ab2aa65eb6!8m2!3d42.4395184!4d-76.4968717) at 6 p.m. every Thursday from July 8 to September 9.
+Looking for more options for your Finger Lakes music fix? Here are a few:
 
-If you're up for a scenic drive from Ithaca to Skaneateles (~1 hour), the [Skaneateles Festival](http://www.skanfest.org/) is another summer music option. It features world-class jazz and classical musicians August 3-28.
+- [GrassRoots](https://www.grassrootsfest.org/) (July 21 to 24)
+- [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) (6 p.m. every Thursday from July 9 to September 15)
+- [Skaneateles Festival](http://www.skanfest.org/) (July 28 to August 20)
 
 ## Prior Lineups
 
-## 2020 Summer Concert Series
+## 2020-2021 Summer Concert Series
 
-The 2020 Summer Concert Series was canceled due to coronavirus concerns.
+The 2020 and 2021 Summer Concert Series were canceled due to coronavirus concerns.
 
 ## 2019 Summer Concert Series
 
 - [Purple Valley](https://purplevalley.weebly.com/) (July 6)
-- [The Sim Redmond Band](http://www.simredmondband.com/) (July 13) 
+- [The Sim Redmond Band](http://www.simredmondband.com/) (July 13)
 - [Johnny Russo and the East Hill Classic Jazz Band](http://www.watershed-arts.com/russo.html) (July 20)
-- [The Tarps](https://facebook.com/TarpsRock) (July 27) 
-- [Laila Belle](https://lailabelle.com/) (August 3) 
-- [Maddy Walsh & the Blind Spots](https://www.theblindspots.com) (August 10) 
-- [Lil' Anne and Hot Cayenne](http://www.lilanneandhotcayenne.com/) (August 17) 
+- [The Tarps](https://facebook.com/TarpsRock) (July 27)
+- [Laila Belle](https://lailabelle.com/) (August 3)
+- [Maddy Walsh & the Blind Spots](https://www.theblindspots.com) (August 10)
+- [Lil' Anne and Hot Cayenne](http://www.lilanneandhotcayenne.com/) (August 17)
 - 9th Annual Movie Under the Stars (August 24)
 
 ### 2018
