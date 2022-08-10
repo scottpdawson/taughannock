@@ -64,7 +64,7 @@ _**Source:** Lehigh Valley Railroad Historical Society, April 2013_
 **Further Reading about the Black Diamond**
 
 - [Lehigh Valley Railroad Historical Society](http://www.lvrrhs.org/history)
-- [Wikipedia](https://en.wikipedia.org/wiki/Black_Diamond_(train))
+- [Wikipedia](<https://en.wikipedia.org/wiki/Black_Diamond_(train)>)
 - [American Rails: The Black Diamond](https://www.american-rails.com/black-diamond.html)
 - [Video of the Black Diamond Express](https://www.youtube.com/watch?v=vmq3Ju9s-g0)
 - [Scot Lawrence's Black Diamond Express](https://scotlawrence.github.io/BDE1896/index.html)
@@ -79,6 +79,8 @@ The summer of 1935 saw one of the greatest floods of the 20th century at Taughan
 
 You'll notice that portions of the rim trail are fenced. At the end of the base trail there's also a clearly-marked stone wall that you shouldn't go beyond. This is for good reason, given the geology of the gorge and fragile nature of the walls. Over the years, Taughannock has seen tragedies, both intentional and not. Be safe when you visit!
 
+Are you upset, confused, depressed, lonely, hurt, angry, scared, suicidal, worried about someone else, or so overwhelmed that you don’t know what to do? The Suicide Prevention and Crisis Service of Tompkins County Crisisline is available 24/7 at 607-272-1616 or 800-273-TALK (8325). Or, call 988 anytime for the Suicide & Crisis Lifeline.
+
 - [April 23, 2005](http://naturalhighs.net/waterfalls/danger1.htm) A woman was rescued after she fell 70 feet into Taughannock gorge.
 - [August 23, 2005](https://www.syracuse.com/news/index.ssf/2012/06/state_not_responsible_for_deat.html) A 51-year-old New Jersey woman died after a rockslide fell on her \*
 - [December 3, 2010](http://cornellsun.com/2010/12/03/body-of-recent-alumna-recovered-from-taughannock-falls) Tine Rubow Ph.D. ’10, a recent Cornell graduate, jumped to her death
@@ -86,5 +88,6 @@ You'll notice that portions of the rim trail are fenced. At the end of the base 
 - [December 1, 2013](https://www.syracuse.com/news/index.ssf/2013/12/body_pulled_from_creek_in_state_park_in_tompkins_county.html) An older man's body was recovered from a creek at Taughannock
 - [July 31, 2015](https://ithacavoice.com/2015/08/emergency-crews-called-to-taughannock-falls-state-park-after-person-falls-off-cliff) A woman was rescued after she fell nearly 100 feet into the gorge. She died the next day from her injuries.
 - [August 18, 2017](https://www.haverfordathletics.com/sports/mlax/2016-17/releases/20170821hu59xw) Geoff Geppert died in an accident and was recovered about a half-mile down the gorge trail
+- [August 8, 2022](https://ithacavoice.com/2022/08/body-found-in-taughannock-falls-gorge-investigation-begins) The body of a 39-year-old man from Johnson City was discovered in the gorge. A recovery operation was conducted from the south rim trail. Police determined that the cause of death was suicide.
 
 _\* In 2012, a court ruled the state of New York was not responsible because she was standing in an area clearly marked off limits by signage._
