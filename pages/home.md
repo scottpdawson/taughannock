@@ -18,4 +18,4 @@ In [Algonquin](https://en.wikipedia.org/wiki/Algonquin_language), _Taughannock_ 
   {%- endfor -%}
 </div>
 
-There are many [things to do](/activities/) when you visit Taughannock Falls State Park. Whether you enjoy water-based or [walking through the woods](/activities/hiking/), [camping](/activities/camping/) under dense green canopies or enjoying [summer concerts](/activities/taughannock-falls-state-park-summer-concert-series/) in wide open spaces, Taughannock has something for everyone.
+There are many [things to do](/activities/) when you visit Taughannock Falls State Park. Whether you enjoy water-based or [walking through the woods](/activities/hiking/), [camping](/activities/camping/) under dense green canopies or enjoying [summer concerts](/activities/taughannock-falls-state-park-summer-concert-series/) in wide open spaces, Taughannock Falls State Park has something for everyone.
