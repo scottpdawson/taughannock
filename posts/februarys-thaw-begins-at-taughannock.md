@@ -4,11 +4,11 @@ date: "2019-02-04"
 hero: "/images/IMG_3218.jpg"
 description: "All of that snow and ice on the ground started melting quickly, so I headed to Taughannock to see what had changed, and how the NYSDOT's preparations were holding up at the intersection of Route 89 and Taughannock Creek."
 tags:
-    - snow
-    - brown
-    - powerful
-    - frozen
-    - video
+  - snow
+  - brown
+  - powerful
+  - frozen
+  - video
 ---
 
 Today's high temperature was 57. That's crazy hot for February, and after a long visit from the polar vortex, no less. All of that snow and ice on the ground started melting quickly, so I headed to Taughannock to see what had changed, and how the NYSDOT's preparations were holding up at the intersection of Route 89 and Taughannock Creek.
@@ -21,9 +21,7 @@ Check out this video. I started at the base and hope you can tell just how power
 
 https://vimeo.com/315325799
 
-**Tuesday, February 5:** check out this video from NYSDOT. Amazing!
-
-{% tweet "1093207779345682432" %}
+**Tuesday, February 5:** check out [this video](https://twitter.com/NYSDOTSyracuse/status/1093207779345682432) from NYSDOT. Amazing!
 
 **Thursday, February 7:** The NYSDOT's hard work paid off. It doesn't look like water spilled over the banks of Taughannock Creek, though if it had it would have been nicely contained. The waterfall itself is shrouded in fog at the moment. You can't see a bit of it from the overlook! I did get some video and photos to see how well things are flowing at the very top and bottom, though.
 
