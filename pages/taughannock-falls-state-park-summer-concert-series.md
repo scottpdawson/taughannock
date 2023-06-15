@@ -2,31 +2,35 @@
 title: "Taughannock Falls State Park Summer Concert Series"
 permalink: "activities/taughannock-falls-state-park-summer-concert-series/"
 hero: "/images/IMG_8577.jpg"
-description: "Updated for 2022, concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5.00/vehicle. Empire passes are honored at the gate. "
+description: "Sadly, the Taughannock Park summer concert series is canceled for this summer due to budgetary concerns."
 includeInActivityMenu: true
 ---
 
-Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes!
+<!-- Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes! -->
 
-## 2022 Summer Concert Series
+## 2023 Summer Concert Series
 
-- [Diana Leigh & the Shorty Georges](https://dianaleigh.com/ensembles/) (July 2)<br />_Swing dance band with exciting arrangements of jazz standards_
-- [Iron Horse](https://www.facebook.com/ironhorseithacany) (July 9)<br />_Authentic southern rock and texas blues_
-- [Party of Four](https://wgottlieb.wixsite.com/party-of-four) (July 16)<br />_Four part jazz harmony_
-- [Papa Muse](https://papamuse.com/) (July 23) <br />_Rock and world music with catchy hooks and funky danceable grooves_
-- [Gunpoets](https://www.gunpoets.com/) (July 30) <br />_Seven-member live hip-hop band spreading the universal message of peace, love, and justice through music_
-- [Zydeco Trail Riders](http://zydecotrailriders.com/) (August 6) <br />_Zydeco-playing dance band_
-- [Marc Berger and Ride](https://marcbergermusic.com/) (August 13) <br />_Songs reflecting Marc’s romantic connection to the American West and exploring the value of its myths to contemporary culture_
+The 2023 Summer Concert Series is canceled this year. According to the park office, it's not occurring due to budgetary concerns.
 
 ### Other Area Concert Series
 
 Looking for more options for your Finger Lakes music fix? Here are a few:
 
-- [GrassRoots](https://www.grassrootsfest.org/) (July 21 to 24)
-- [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) (6 p.m. every Thursday from July 9 to September 15)
-- [Skaneateles Festival](http://www.skanfest.org/) (July 28 to August 20)
+- [GrassRoots](https://www.grassrootsfest.org/) (July 20-23)
+- [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) (6 p.m. every Thursday from June 8 to September 14)
+- [Skaneateles Festival](http://www.skanfest.org/) (July 26 to August 19)
 
 ## Prior Lineups
+
+## 2022 Summer Concert Series
+
+- [Diana Leigh & the Shorty Georges](https://dianaleigh.com/ensembles/) (July 2)
+- [Iron Horse](https://www.facebook.com/ironhorseithacany) (July 9)
+- [Party of Four](https://wgottlieb.wixsite.com/party-of-four) (July 16)
+- [Papa Muse](https://papamuse.com/) (July 23)
+- [Gunpoets](https://www.gunpoets.com/) (July 30)
+- [Zydeco Trail Riders](http://zydecotrailriders.com/) (August 6)
+- [Marc Berger and Ride](https://marcbergermusic.com/) (August 13)
 
 ## 2020-2021 Summer Concert Series
 
