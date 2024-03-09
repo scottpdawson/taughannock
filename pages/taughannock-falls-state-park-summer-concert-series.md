@@ -2,23 +2,11 @@
 title: "Taughannock Falls State Park Summer Concert Series"
 permalink: "activities/taughannock-falls-state-park-summer-concert-series/"
 hero: "/images/IMG_8577.jpg"
-description: "Sadly, the Taughannock Park summer concert series is canceled for this summer due to budgetary concerns."
+description: "2022 was the last year Taughannock Falls State Park hosted its summer concert series. Since then, a group has worked to try to restore the series, but face several headwinds cited by the park."
 includeInActivityMenu: true
 ---
 
-<!-- Concerts start at 7 p.m. and usually last about 2 hours. Fee at the gate, starting at 5:15 pm, is $5/vehicle. Empire passes are honored at the gate. Bring a blanket, some chairs, some provisions and a smile. It's going to be a fun summer in the Finger Lakes! -->
-
-## 2023 Summer Concert Series
-
-The 2023 Summer Concert Series is canceled this year. According to the park office, it's not occurring due to budgetary concerns.
-
-### Other Area Concert Series
-
-Looking for more options for your Finger Lakes music fix? Here are a few:
-
-- [GrassRoots](https://www.grassrootsfest.org/) (July 20-23)
-- [CFCU Summer Concert Series](https://www.downtownithaca.com/summer-concert-series/) (6 p.m. every Thursday from June 8 to September 14)
-- [Skaneateles Festival](http://www.skanfest.org/) (July 26 to August 19)
+2022 was the last year Taughannock Falls State Park hosted its summer concert series. Since then, a group has worked to try to restore the series, but face several headwinds cited by the park.
 
 ## Prior Lineups
 
