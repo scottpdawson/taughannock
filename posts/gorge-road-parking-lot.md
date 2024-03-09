@@ -18,4 +18,4 @@ The sign also touts a four-season restroom, welcome news for anyone who enjoys h
 
 {% picture "/images/gorge-road-parking/bathroom_rendition.jpg", "Bathroom rendition" %}
 
-Trail bridge improvements are on the way, which will rehabilitate the railroad trestle bridge spanning the gorge. It currently has areas of crumbling concrete and a chain link fence.
+Trail bridge improvements are on the way, which will rehabilitate the railroad trestle bridge spanning the gorge. It currently has areas of crumbling concrete and a chain link fence. The Jacksonville Road parking lot will be allowed to return to its natural vegetated state.

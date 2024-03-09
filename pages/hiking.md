@@ -9,7 +9,7 @@ includeInActivityMenu: true
 Taughannock's hiking trails are so accessible, and there's something for everyone. You can get up close and personal with the waterfall or head to a quiet leaf-covered corner of the park. Regardless of whether you like it flat and level, or prefer to get your heart rate going, options abound.
 
 ## Gorge Trail
- 
+
 The Gorge Trail is open most days of the year, though the park does close this trail on some brief winter stretches where ice on the trail is treacherous. The 1.5 mile round-trip (though my GPS watch usually shows 1.8-ish miles when I run it) follows Taughannock Creek to the main cataract of the waterfall. It's an easy, mostly level walk, and there's always something to look at along the way. The gorge walls tower above you on both sides, and the creek is always fun to look at, whether it is a raging torrent or barely a trickle.
 
 ## Rim Trail
@@ -18,7 +18,7 @@ The Gorge Trail is open most days of the year, though the park does close this t
 
 The Rim Trail is comprised of a South segment and a North segment. You can hike them in either direction. My favorite route starts at the Jacksonville Road parking lot instead of the base or overlook lots, since it's off the beaten path and starts off flat and level. The South Rim segment is a bit shy of 1.25 miles (430 feet elevation change), while the North is slightly longer at 1.5 miles (410 feet elevation change). If you add in the camp road instead of using the steep staircase on the North Rim, you can make it an even 3 miles.
 
-The trails are well-tended and have occasional stones and roots to navigate around. There are steep sections, especially near the bottom of each trail. Where it would become _too_ steep, the park has stone steps ... a lot of stone steps! For this reason, the bottom half of the South Rim and the stairs of the North Rim are closed in the winter. The steps can get rather slippery when frozen!
+The trails are well-tended and have occasional stones and roots to navigate around. There are steep sections, especially near the bottom of each trail. Where it would become *too* steep, the park has stone steps ... a lot of stone steps! For this reason, the bottom half of the South Rim and the stairs of the North Rim are closed in the winter. The steps can get rather slippery when frozen!
 
 The Rim Trail is totally worth it if you're up to the challenge. The views are unique from all vantage points, and if the base trail is congested, it's a quieter place to hike. Plus, you get to see a lot of the twisting gorge and smaller waterfalls that lie upstream of the main waterfall.
 
@@ -34,7 +34,7 @@ Halfway through the hike you'll arrive at the top of Rice Hill, with open views 
 
 While the [Black Diamond Trail](https://www.google.com/maps/place/Black+Diamond+Trail/@42.5136654,-76.597672,13z/data=!4m5!3m4!1s0x89d0849719b70679:0xe8cf1495579fc7a!8m2!3d42.5136654!4d-76.5626531) has been passable from Taughannock Park to Ithaca for awhile, it wasn't until 2016 that it was vastly improved. The extensive refurbishment project (chronicled at [blackdiamondtrail.org](http://blackdiamondtrail.org)) addressed drainage issues that would wash out or swamp the trail, and eliminated the rough railroad bed surface that could be an ankle-bender near the park.
 
-The trail is well-graded and covered with smoothed gravel. You can walk, run, ski or ride (locals [ride their road bikes](/2018/spring/biking-on-the-black-diamond-trail/) without issue) the 8.44 mile stretch from Taughannock to Ithaca's Cass Park (near the Children's Community Garden). The trail starts at Taughannock's Jacksonville Road parking lot. Sadly there are no facilities along the route, but there is plenty to see: ravines, foliage and the spectacular bison grazing right next to the trail at [Glenwood Farms](http://www.glenwoodfarms.com/).
+The trail is well-graded and covered with smoothed gravel. You can walk, run, ski or ride (locals [ride their road bikes](/2018/spring/biking-on-the-black-diamond-trail/) without issue) the 8.44 mile stretch from Taughannock to Ithaca's Cass Park (near the Children's Community Garden). The trail starts at Taughannock's Jacksonville Road parking lot. Sadly there are no facilities along the route, but there is plenty to see: ravines, foliage and the spectacular bison grazing right next to the trail at [Glenwood Farms](http://www.glenwoodfarms.com/). By the end of 2025, the [park will have substantially improved the amenities at the north end of the trail](/2024/spring/substantial-improvements-coming-to-black-diamond-trailhead-at-taughannock-falls-state-park/).
 
 There are helpful markers placed every quarter mile, but if you'd like to know the cumulative distance from either endpoint, check this out:
 
