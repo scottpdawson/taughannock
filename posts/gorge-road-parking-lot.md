@@ -23,3 +23,11 @@ The sign also touts a four-season restroom, welcome news for anyone who enjoys h
 {% picture "/images/gorge-road-parking/bathroom_rendition.jpg", "Bathroom rendition" %}
 
 Trail bridge improvements are on the way, which will rehabilitate the railroad trestle bridge spanning the gorge. It currently has areas of crumbling concrete and a chain link fence. The Jacksonville Road parking lot will be allowed to return to its natural vegetated state.
+
+## July 16 Update
+
+{% picture "/images/gorge-road-parking/black_diamond_trail_access.jpg", "Black Diamond Trail Access Closed" %}
+
+I spoke with Bill Hughes at Taughannock Park this morning. The Jacksonville Road parking lot is closed for a week. After that time (and since it’s a contractor, July 23 may be fungible), half of the parking lot will be available again and the other half will be used for construction staging. During this week, all access from that parking lot to BDT is closed, so reroute along Jacksonville Road and Gorge Road to get to BDT. When the lot re-opens, the access to BDT will not be along the current path, but instead along the footpath at the top of the bridge that crosses the gorge. I made a video to show what that looks like. It should be fairly clear with fencing when it is completed, too.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvQnRWr0XPg?si=SZBH3TeRwaUzF_D3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
