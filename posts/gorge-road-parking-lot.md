@@ -1,8 +1,8 @@
 ---
 title: "Black Diamond Trailhead Improvements at Taughannock Falls State Park"
 date: "2024-07-16"
-hero: "/images/gorge-road-parking/black_diamond_trail_access.jpg"
-description: "Signs went up recently at the Gorge Road intersection with Black Diamond and the Jacksonville Road parking lot. Substantial improvements are coming by the end of 2025!"
+hero: "/images/gorge-road-parking/excavation-progress.jpg"
+description: "Keep up to date with the latest progress of the park's improvements: moving the Jacksonville parking lot to a new area at the Gorge Road intersection with Black Diamond, and replacing the footbridge at the top of the park."
 tags:
   - parking
   - black diamond
