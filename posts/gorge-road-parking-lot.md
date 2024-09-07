@@ -37,3 +37,17 @@ I spoke with Bill Hughes at Taughannock Park this morning. The Jacksonville Road
 The Jacksonville Road parking lot is open again. The access from the parking lot to the trail is also available, though I’m not sure if they’ll be changing that, but they’ll have a short reroute when they do. The area for the new parking lot off Gorge Road is totally cleared of trees and debris, though stumps remain.
 
 {% picture "/images/gorge-road-parking/jacksonville_parking_lot.jpg", "Jacksonville Road parking lot reopened" %}
+
+## September 6, 2024
+
+There's a lot of excavation progress in the parking lot area off of Gorge Road, including a pad for what I presume will be the structure adjacent to the parking lot.
+
+{% picture "/images/gorge-road-parking/excavation-progress.jpg", "Excavation progress" %}
+
+The path that connects the Jacksonville parking lot to the Black Diamond Trail is ringed by tall semi-permanent fencing, in preparation for what I presume will be closure of that path. As noted above, the plan is to connect Black Diamond to the rim trail via the singletrack footpath that goes off to the right.
+
+{% picture "/images/gorge-road-parking/gate.jpg", "Semi-permanent fencing" %}
+
+There's a huge pile of dirt, presumably excavated from the new parking lot area, in the Jacksonville Road lot. The lot appears to be halved by that same semi-permanent fencing, so if you plan to start your day from that end of the park, be prepared for low (or no) capacity in that lot, depending on the day and time you arrive.
+
+{% picture "/images/gorge-road-parking/parking-lot-dirt.jpg", "That's a dirt pile!" %}
