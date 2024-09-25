@@ -51,3 +51,11 @@ The path that connects the Jacksonville parking lot to the Black Diamond Trail i
 There's a huge pile of dirt, presumably excavated from the new parking lot area, in the Jacksonville Road lot. The lot appears to be halved by that same semi-permanent fencing, so if you plan to start your day from that end of the park, be prepared for low (or no) capacity in that lot, depending on the day and time you arrive.
 
 {% picture "/images/gorge-road-parking/parking-lot-dirt.jpg", "That's a dirt pile!" %}
+
+## September 22, 2024
+
+Another quick set of progress photos, this time from Gorge Road, where the parking pads are clearly visible with grading around the periphery.
+
+{% picture "/images/gorge-road-parking/2024-september-parking-pad-1.jpg", "Parking pads" %}
+
+{% picture "/images/gorge-road-parking/2024-september-parking-pad-2.jpg", "An effective way to block a driveway" %}
