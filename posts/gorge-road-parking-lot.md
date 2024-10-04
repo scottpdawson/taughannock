@@ -59,3 +59,15 @@ Another quick set of progress photos, this time from Gorge Road, where the parki
 {% picture "/images/gorge-road-parking/2024-september-parking-pad-1.jpg", "Parking pads" %}
 
 {% picture "/images/gorge-road-parking/2024-september-parking-pad-2.jpg", "An effective way to block a driveway" %}
+
+## October 4, 2024
+
+The pedestrian bridge at the top of the park is no longer passable, with fencing up on the south side. The Jacksonville Road parking lot is also fully closed at the moment, so if you enjoy hiking the rim trail, you'll need to duck under the trestle (there are a few paths down) just north of the pedestrian bridge and cross on the road bridge. To get back to the trail, head up to Gorge Road and follow that down to the small parking lot halfway down the hill. That's right: the entire top half of the South Rim Trail is closed!
+
+{% picture "/images/gorge-road-parking/last-view-top-bridge.jpg", "A last view of the pedestrian bridge?" %}
+
+{% picture "/images/gorge-road-parking/underpass.jpg", "The trestle underpass" %}
+
+{% picture "/images/gorge-road-parking/building-progress-oct-4.jpg", "Bathroom building progress" %}
+
+{% picture "/images/gorge-road-parking/parking-lot-progress-oct-4.jpg", "Parking lot progress" %}
