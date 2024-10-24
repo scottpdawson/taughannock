@@ -71,3 +71,9 @@ The pedestrian bridge at the top of the park is no longer passable, with fencing
 {% picture "/images/gorge-road-parking/building-progress-oct-4.jpg", "Bathroom building progress" %}
 
 {% picture "/images/gorge-road-parking/parking-lot-progress-oct-4.jpg", "Parking lot progress" %}
+
+## October 24, 2024
+
+The park posted a notice today, along with the accompanying map, about the closure of the upper portion of the North Rim (NR) and South Rim (SR) trails, including the railroad trestle. Those trail segments, along with the Jacksonville Road parking lot, will be closed "until further notice" starting on Monday, October 24. If you want to continue to hike around the entire rim trail, you can exit the rim trail (on the north, close to the top on Taughannock Park Road, and on the south, where the trail runs along Gorge Road near the small parking lot halfway down the hill) and follow the roads around the top of the park. Or, consider an out-and-back from where you park to make up your planned mileage.
+
+{% picture "/images/gorge-road-parking/trail-closure-oct-2024.jpg", "Closure map" %}
