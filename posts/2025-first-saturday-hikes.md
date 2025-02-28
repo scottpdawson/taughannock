@@ -2,7 +2,7 @@
 title: "First Saturday Hikes at Finger Lakes Region's State Parks (2025)"
 date: "2025-02-26"
 hero: "/images/multi_use_trail.jpg"
-description: ""
+description: "This guided hike series explores regional state parks with an environmental educator. Discover popular trails like Watkins Glen’s Gorge Trail and hidden gems like Buttermilk Falls’ Bear Trail. First Saturday Hikes are free and open to all ages—no registration needed."
 tags:
   - hiking
 ---
