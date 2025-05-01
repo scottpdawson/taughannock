@@ -81,3 +81,11 @@ The park posted a notice today, along with the accompanying map, about the closu
 ## October 28, 2024
 
 From [Liz Graeper Thomas](https://www.facebook.com/groups/597252040386618/user/427577/?__cft__[0]=AZUGhvQi3bqRmeyRvlYtfxHcg3Jk7Idjuk0TZhGNN9zYwVS7ukltQN51VgyQ-p7GsgB-ZfgTFg9uknFWPdDdr5sS_lyQErqq8lM_cMg3jTNg6_ZD26gx2R09A3LdHMLq3hnEwaFfLrgRd6XywDWwpUNf&__tn__=-UC%2CP-R) on Facebook – The railroad trestle is now closed at the top of Taughannock Park and the trail dead ends on the south Rim Trail at the trestle requiring hikers doing a clockwise loop on the Rim Trail to double back to the small parking area on Gorge Road to complete a loop. Because that's a BIG pain, we've created a detour from the Rim Trail, through our land to get back onto Gorge Road without a big double back. Look for a detour sign on cardboard before reaching the trestle off the Rim Trail. Follow the white blazes to reach Gorge Road. ([original post](https://www.facebook.com/groups/blackdiamondtrail/posts/8288348024610276/?__cft__[0]=AZUGhvQi3bqRmeyRvlYtfxHcg3Jk7Idjuk0TZhGNN9zYwVS7ukltQN51VgyQ-p7GsgB-ZfgTFg9uknFWPdDdr5sS_lyQErqq8lM_cMg3jTNg6_ZD26gx2R09A3LdHMLq3hnEwaFfLrgRd6XywDWwpUNf&__tn__=%2CO%2CP-R))
+
+## April 25, 2025
+
+It's been a while since providing an update, and a recent hike afforded me the opportunity to take some progress photos. A substantial timber railing is up along Gorge Road, leading to the new parking lot and building. The building itself is substantially completed, with work progressing on the inside. Around the corner on Jacksonville Road, progress is less obvious. The old parking lot has been transformed with landscaping, and it appears there's plenty of work on the pedestrian bridge with new concrete supports in place.
+
+{% picture "/images/gorge-road-parking/road-railing.jpg", "Freshly-cut wood railing" %}
+
+{% picture "/images/gorge-road-parking/parking-lot-building-progress.jpg", "Building and parking lot progress" %}
