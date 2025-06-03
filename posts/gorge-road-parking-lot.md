@@ -89,3 +89,13 @@ It's been a while since providing an update, and a recent hike afforded me the o
 {% picture "/images/gorge-road-parking/road-railing.jpg", "Freshly-cut wood railing" %}
 
 {% picture "/images/gorge-road-parking/parking-lot-building-progress.jpg", "Building and parking lot progress" %}
+
+## June 2, 2025
+
+The parking lot is open. I showed up for an evening run on Black Diamond and the parking lot entrance was void of cones. Ample parking!
+
+{% picture "/images/gorge-road-parking/parking-area-open.jpg", "Parking is open" %}
+
+The building is still closed, as it looks like tile work and other internal work still needs to wrap up.
+
+{% picture "/images/gorge-road-parking/building-sign.jpg", "Black Diamond sign on the building" %}
