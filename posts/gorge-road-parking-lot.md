@@ -1,6 +1,6 @@
 ---
 title: "Black Diamond Trailhead Improvements at Taughannock Falls State Park"
-date: "2024-07-16"
+date: "2025-06-04"
 hero: "/images/gorge-road-parking/excavation-progress.jpg"
 description: "Keep up to date with the latest progress of the park's improvements: moving the Jacksonville parking lot to a new area at the Gorge Road intersection with Black Diamond, and replacing the footbridge at the top of the park."
 tags:
@@ -92,10 +92,10 @@ It's been a while since providing an update, and a recent hike afforded me the o
 
 ## June 2, 2025
 
-The parking lot is open. I showed up for an evening run on Black Diamond and the parking lot entrance was void of cones. Ample parking!
+The parking lot is open (well, almost). I showed up for an evening run on Black Diamond and the parking lot entrance was void of cones. Ample parking!
 
 {% picture "/images/gorge-road-parking/parking-area-open.jpg", "Parking is open" %}
 
-The building is still closed, as it looks like tile work and other internal work still needs to wrap up.
+The building is still closed, as it looks like tile work and other internal work still needs to wrap up. I spoke with one of the construction workers who shared that the parking area shouldn't have been open, since there's some plumbing, tile, and other finish work yet to be done. But we're close! I also found out that next week they'll have a crew start sandblasting the metal parts underpinning the bridge. Once that's repainted, it sounds like the bridge will be open, too. So, perhaps just a matter of weeks?
 
 {% picture "/images/gorge-road-parking/building-sign.jpg", "Black Diamond sign on the building" %}
