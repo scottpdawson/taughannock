@@ -99,3 +99,9 @@ The parking lot is open (well, almost). I showed up for an evening run on Black 
 The building is still closed, as it looks like tile work and other internal work still needs to wrap up. I spoke with one of the construction workers who shared that the parking area shouldn't have been open, since there's some plumbing, tile, and other finish work yet to be done. But we're close! I also found out that next week they'll have a crew start sandblasting the metal parts underpinning the bridge. Once that's repainted, it sounds like the bridge will be open, too. So, perhaps just a matter of weeks?
 
 {% picture "/images/gorge-road-parking/building-sign.jpg", "Black Diamond sign on the building" %}
+
+## June 28, 2025
+
+{% picture "/images/gorge-road-parking/bridge-reopened.jpg", "Reopened!" %}
+
+It's been just about a year, and the bridge over Taughannock's upper falls is now open again! It's wider than the previous bridge, and has beefier steel railings along the sides. It's such a pleasure to be able to hike and run the rim trail without detouring out to Gorge Road. Since the new parking lot is still not open (soon?) the only way to access is to hike to it from the overlook to the North Rim trail, or from the South Rim trail.
